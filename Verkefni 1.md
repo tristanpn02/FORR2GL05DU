@@ -1,16 +1,22 @@
-1. Hvað er leikjavél?
+1. Hvað er leikjavél?  
   **Leikjavél er þróunarumhverfi sem er hannað fyrir fólk til að smíða tölvuleiki.**
-2. Útskýrðu Gameloop í Unity.
+  
+2. Útskýrðu Gameloop í Unity.  
   **Gameloop er heildar flæðisstýring fyrir allt í tölvuleiknum.**
-3. Hvað er asset? Nefnu algengar tegundir.
+  
+3. Hvað er asset? Nefnu algengar tegundir.  
   **Assets er framsetning á hvaða hlut sem þú getur notað í leik, eins og 3d model, mynd og hljóðskrá.**
-4. Hvað er game object og hvernig tengist það components í Inspector?
+  
+4. Hvað er game object og hvernig tengist það components í Inspector?  
   **Game object eru hlutir í leiknum eins og ljós, tré og hljóð og þurfa einangruð virkni sem hægt er að festa við hlut til þess að gefa þeim eiginleika.**
-5. Hvað er líkt og ólíkt með game object og prefab?
+  
+5. Hvað er líkt og ólíkt með game object og prefab?  
   **Prefabs eru heill sniðmát af game object sem þegar er búið components.**
-6. Hvað eru tags og layers?
-  **Tags eru merkimörk sem þú getur notað til að bera kennsl á hluti í verkefninu þínu**
+  
+6. Hvað eru tags og layers?  
+  **Tags eru merkimörk sem þú getur notað til að bera kennsl á hluti í verkefninu þínu**  
   **Layers eru til þess að búa til hópa af hlutum sem deila sérstökum einkennum**
+  
 7. Útskýrðu stuttlega hlutverk eftirfarandi glugga/svæði í Unity:
   1. Scene view
     **Þú notar Scene View til að velja og staðsetja umhverfi, spilarann, myndavélina, óvini og öll önnur GameObjects.**
