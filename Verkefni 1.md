@@ -18,13 +18,17 @@
   **Layers eru til þess að búa til hópa af hlutum sem deila sérstökum einkennum**
   
 7. Útskýrðu stuttlega hlutverk eftirfarandi glugga/svæði í Unity:
-  1. Scene view
+  - Scene view  
     **Þú notar Scene View til að velja og staðsetja umhverfi, spilarann, myndavélina, óvini og öll önnur GameObjects.**
-  2. Game view
+    
+  - Game view  
     **Game view er sýningarfulltrúi sem að sýnir þér hvernig umhverfið lítur út í endanun**
-  3. Project "*browser*"?
+    
+  - Project "*browser*"?  
     **Í Project browser geturðu fengið aðgang að og stjórnað eignunum sem tilheyra verkefninu þínu.**
-  4. Hierarchy
+    
+  - Hierarchy  
     **inniheldur hvert GameObject í núverandi vettvangi. Sumt af þessu eru bein tilvik eigna skráa eins og 3D módel, og önnur eru dæmi um forheilir, sérsniðna hluti sem munu gera mikið úr verkefninu.**
-  5. Inspector
+    
+  -- Inspector  
     **Inspector birtir nákvæmar upplýsingar um GameObject sem þú hefur valið, þar með talið alla meðfylgjandi íhluti og eiginleika þeirra.**
